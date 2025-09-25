@@ -1,113 +1,77 @@
 Topic,Words,Frequency,Timestamp
--1,"arab, political, tunisia, middle, spring",21,2011
-0,"libya, libyan, libyas, intervention, women",5,2011
-1,"media, arab, wikileaks, social, arab spring",3,2011
-2,"arab, uprisings, egypt, change, political",8,2011
-3,"syria, strategy, war, region, arab",5,2011
-4,"production, oil, price, production capacity, million",3,2011
-6,"womens, gender, womens rights, rights, colonial",1,2011
-7,"eu, eus, africans, north, place",1,2011
-8,"alqaida, arabian peninsula, peninsula, yemen, arabian",2,2011
-9,"activities, political, tunisian, ben, contentious activities",1,2011
-12,"effect, turkeys, demonstrative effect, demonstrative, turkish",1,2011
--1,"arab, tunisia, spring, arab spring, countries",25,2012
-0,"libya, libyan, revolution, political, 2011",14,2012
-1,"media, social, social media, political, online",12,2012
-2,"uprisings, arab, political, egypt, movements",6,2012
-3,"east, middle, middle east, policy, arab",4,2012
-4,"food, oil, politicallegal, production, gas",4,2012
-5,"alliance, islamist, tunisias, elections, ennahda",1,2012
-6,"women, tunisia, womens, tunisian, rights",2,2012
-7,"eu, domestic, cooperation, democracy promotion, promotion",2,2012
-8,"yemens, air force, yemen, yemeni, air",2,2012
-9,"tunisian, ben, tunisia, revolution, article",5,2012
-12,"relations, turkey, turkishsaudi, regional, new",2,2012
--1,"arab, spring, arab spring, tunisia, political",27,2013
-0,"libya, libyan, health, revolution, libyas",15,2013
-1,"media, social, social media, arab, spring",18,2013
-2,"uprisings, arab, political, movements, arab uprisings",8,2013
-3,"arab, doctrine, syria, war, regime",5,2013
-4,"fdi, corruption, mena, markets, economic",4,2013
-5,"political, ennahda, islamists, tunisia, tunisia egypt morocco",3,2013
-6,"women, transitional justice, arab, transitional, justice",3,2013
-7,"eu, migration, eus, arab, european",3,2013
-8,"conflict, yemen, tribal, th, th conflict",3,2013
-9,"ben, tunisian, ben ali, ali, regime",2,2013
-10,"higher education, higher, education, tunisia, policies",1,2013
-12,"turkish, relations, foreign policy, foreign, policy",3,2013
--1,"arab, spring, arab spring, tunisia, political",20,2014
-0,"libyan, libya, colon, property, revolution",11,2014
-1,"media, social, social media, political, new",14,2014
-2,"rentier, uprisings, rentier states, states, arab",5,2014
-3,"saudi, regional, arab, united states, arab spring",2,2014
-4,"markets, food, prices, oil, commodity",2,2014
-5,"indonesia, islamist parties, parties, islamist, turkish model",2,2014
-6,"women, womens, citizenship, education, tunisian",4,2014
-7,"eu, european, security, neighborhood, democracy promotion",3,2014
-8,"yemen, heritage, yemens, yemeni, cities",3,2014
-11,"coloured revolutions, coloured, democratic, gains, revolutions",1,2014
-12,"kurdish question, kurdish, turkeys, question, pkk",2,2014
--1,"arab, spring, political, tunisia, arab spring",33,2015
-0,"libya, libyan, r2p, intervention, international",7,2015
-1,"media, social, social media, news, coverage",16,2015
-2,"arab, egypt, political, uprisings, state",7,2015
-3,"policy, foreign, arab, foreign policy, gcc",5,2015
-4,"inflation, banks, economic, arab, tunisia",3,2015
-5,"parties, ennahda, political, democratic, religious",4,2015
-6,"rights, womens, bodies, women, body",3,2015
-7,"european, eu, eus, article, european union",4,2015
-8,"hospital, preparedness, yemen, disaster, hospital disaster",2,2015
-9,"ben, emigration, postrevolution, tunisian, regime",2,2015
-10,"youth, political reform, youth uprising, reform, quest political reform",1,2015
-11,"morocco, continuity, tunisia, emergency, uprisings",7,2015
-12,"turkeys, r2p, policy, foreign policy, foreign",2,2015
--1,"arab, spring, arab spring, tunisia, countries",21,2016
-0,"libya, libyan, r2p, political, security",12,2016
-1,"media, social, social media, coverage, al",5,2016
-2,"uprisings, arab, military, political, egypt",4,2016
-3,"saudi, policy, foreign, gulf, omans",3,2016
-4,"imf, alternative, domestic political, alternative resources, domestic political environment",1,2016
-5,"democratic, political, islam, religious, public",3,2016
-6,"womens, women, arab, rights, tunisian",4,2016
-7,"sanctions, eus sanctions, critical juncture, juncture, eus",1,2016
-8,"land property, land, yemen, property, th",2,2016
-9,"voting, israel, tunisian, abroad, external voting",2,2016
-10,"justice, transitional justice, transitional, demands, tunisian",2,2016
-11,"institutional, text, provisions, constitution, constitutionmaking",2,2016
--1,"arab, spring, arab spring, tunisia, political",18,2017
-0,"libya, libyan, selfimmolation, revolution, 2011",9,2017
-1,"media, social, social media, political, arab",8,2017
-2,"uprisings, arab, egypt, political, trust",6,2017
-3,"saudi, syria, policy, trump, arab",5,2017
-4,"banks, tax, family, audit, tax avoidance",6,2017
-5,"religious, ennahda, islam, political, oi",3,2017
-6,"women, contraception, code, tunisia, education",4,2017
-8,"yemen, south, world, years, socialist",3,2017
-9,"collapse, security, authoritarian, relations, tunisia",2,2017
-10,"tunisian, youth, democracy, legislators, civil society",4,2017
--1,"arab, tunisia, spring, arab spring, countries",26,2018
-0,"libya, waste, study, libyan, fractures",9,2018
-1,"media, data, vgi, geographical features, names",2,2018
-2,"national identity, nonviolent, identity, national, movements",1,2018
-3,"multipolarity, instability, regional, tensions, east",1,2018
-4,"companies, political instability, pcs, political, instability",2,2018
-5,"pilgrimage, islam, political, parties, ennahda",5,2018
-6,"tunisian, marriage, women, law, marriage registration",2,2018
-7,"eu, democracy promotion, promotion, international, democracy",2,2018
-8,"yemeni, family, war, yemen, family dynamics",2,2018
-9,"regime, experience, relegation, political relegation, senior",1,2018
-10,"tunisian, kerkennah, publication, research, justice",2,2018
-11,"protocol, ecowas, democratic, normative, guinea",2,2018
-12,"turkey, million, syrian, turkish, people",1,2018
--1,"arab, foreign, tunisia, spring, arab spring",31,2019
-0,"libya, libyan, revolution, security, years",7,2019
-1,"media, social, social media, arab, political",9,2019
-2,"emotions, arab, decisions, egypt, uprisings",3,2019
-3,"america, latin, irans, latin america, iran",3,2019
-4,"fdi, spring, investment, remittances, arab spring",5,2019
-5,"parties, islamist, tunisia, islamist parties, party",3,2019
-6,"family law, law, started, legislation, womenfriendly",1,2019
-7,"eu, security, regional, eus, cooperation",5,2019
-8,"services, fp, conflict, yemen, pac",2,2019
-9,"provisional, provisional administrations, administrations, tpa, actors",1,2019
-10,"tunisian, civil society, society, civil, youth",2,2019
+-1,"arab, political, spring, arab spring, middle",10,2011
+0,"syria, syrian, regime, middle, political",11,2011
+1,"libya, libyan, libyas, women, intervention",5,2011
+2,"arab, civil, egypt, tunisia, uprisings",6,2011
+3,"wikileaks, revelations, wiki revelations, revelations short longterm, leaks inspire",1,2011
+4,"political, turkey, free democratic peaceful, examines syrian political, developments turkey applied",1,2011
+5,"yemen, alqaida, arabian peninsula, peninsula, arabian",2,2011
+7,"north, security, gas, europe, eu",2,2011
+-1,"arab, spring, gas, arab spring, middle",11,2012
+0,"syria, syrian, arab, political, opposition",21,2012
+1,"libya, libyan, political, revolution, national",13,2012
+2,"arab, political, tunisia, egypt, uprisings",11,2012
+3,"media, social, social media, use, political",5,2012
+4,"turkey, relations, syria, turkeys, arab",6,2012
+5,"yemens, yemen, air force, air, yemeni",2,2012
+6,"refugees, protection, sahrawis, sahrawis palestinians, 2011",1,2012
+7,"regional, interregional forums, economic conditionality, conditionality, political economic conditionality",1,2012
+-1,"arab, spring, arab spring, countries, middle",18,2013
+0,"syria, syrian, regime, state, political",13,2013
+1,"libya, libyan, health, political, revolution",16,2013
+2,"arab, political, uprisings, tunisia, egypt",15,2013
+3,"media, social, social media, arab, use",10,2013
+4,"turkey, turkeys, policy, relations, foreign policy",7,2013
+5,"yemen, tribal, conflict, th, th conflict",3,2013
+6,"asylum, asylum seekers, seekers, italy, instabilities",1,2013
+7,"migration, eu, libya syria article, security, article",1,2013
+-1,"arab, spring, arab spring, syria, patients",14,2014
+0,"syrian, syria, arab, urban, destruction",12,2014
+1,"libyan, libya, colon, property, political",11,2014
+2,"arab, rentier, uprisings, political, egypt",11,2014
+3,"media, social, digital, social media, assessment",5,2014
+4,"turkey, turkeys, arab, kurdish, regional",7,2014
+5,"yemen, yemens, heritage, yemeni, cities",3,2014
+6,"refugees, palestinian refugees, palestinian, protection, gap",1,2014
+7,"security, european, euromediterranean, security agenda, migration",1,2014
+-1,"arab, spring, arab spring, international, syria",24,2015
+0,"syria, arab, syrian, political, conflict",14,2015
+1,"libya, libyan, international, r2p, intervention",8,2015
+2,"arab, political, egypt, tunisia, countries",9,2015
+3,"media, coverage, social, news, social media",10,2015
+4,"turkeys, kurdish, regional, turkey, syria",7,2015
+5,"hospital, preparedness, yemen, disaster, disaster preparedness",2,2015
+-1,"arab, spring, arab spring, countries, region",13,2016
+0,"syria, syrian, arab, leadership, economic",13,2016
+1,"libya, libyan, r2p, security, political",12,2016
+2,"arab, egypt, tunisia, political, spring",8,2016
+3,"media, social, coverage, internet, news",7,2016
+4,"turkeys, turkey, policy, syrian, syria",3,2016
+5,"land property, land, yemen, property, th",2,2016
+6,"refugees, refugee, health, million, persons",5,2016
+7,"migration, security, migrationsecurity, deterrence measures, migrationsecurity nexus",1,2016
+-1,"arab, spring, arab spring, drought, syria",10,2017
+0,"syria, syrian, state, arab, saudi",10,2017
+1,"libya, libyan, revolution, security, 2011",7,2017
+2,"arab, egypt, political, uprisings, spring",10,2017
+3,"media, new, social, article, development",4,2017
+4,"turkeys, kurdish, syria, turkey, constitution",3,2017
+5,"yemen, south, world, years, socialist",3,2017
+6,"refugees, humiliation, dignity, refugees livedexperience, livedexperience",1,2017
+-1,"arab, groundwater, spring, policy, arab spring",13,2018
+0,"syria, syrian, article, regime, saudi",15,2018
+1,"libya, waste, libyan, fractures, arab",9,2018
+2,"egypt, arab, politics, national identity, tunisia",5,2018
+3,"media, data, digital, social, technology",5,2018
+4,"turkey, kurdish, turkeys, economic, syria",4,2018
+5,"yemeni, family, yemen, war, family dynamics",2,2018
+6,"refugees, people, refugee, million, communities",3,2018
+-1,"arab, spring, arab spring, foreign, north",19,2019
+0,"syrian, syria, conflict, political, irans",12,2019
+1,"libya, libyan, revolution, political, security",9,2019
+2,"arab, tunisia, spring, civil, arab spring",6,2019
+3,"media, social media, social, political, regional media",3,2019
+4,"turkeys, kurdish, syria, turkey, ecology",3,2019
+5,"services, fp, yemen, conflict, pac",2,2019
+6,"asylum, design, refugee, refugees, camps",2,2019
+7,"security, regional, policy, new, rivalry",4,2019

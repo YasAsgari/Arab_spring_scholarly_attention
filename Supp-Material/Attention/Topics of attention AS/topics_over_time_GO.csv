@@ -1,96 +1,110 @@
 Topic,Words,Frequency,Timestamp
--1,"arab, egypt, political, tunisia, revolution",19,2011
-0,"egypt, egyptian, political, military, muslim",12,2011
+-1,"arab, political, egypt, tunisia, social",17,2011
+0,"egypt, egyptian, political, military, muslim",13,2011
 1,"media, social, social media, arab, new",6,2011
-2,"arab, uprisings, egypt, change, world",9,2011
-3,"study, hotel, egyptian, egypt, hotel industry",4,2011
-4,"womens, rights, gender, women, womens rights",4,2011
-5,"political, tunisia, ben, algeria, tunisian",3,2011
-6,"eu, osce, enp, policy, mediterranean",2,2011
-7,"spring, arab spring, arab, states, states outcomes",2,2011
-9,"turkey, turkeys, effect, middle, demonstrative",2,2011
--1,"arab, tunisia, spring, egypt, arab spring",21,2012
-0,"egyptian, egypt, political, 2011, revolution",16,2012
+2,"arab, uprisings, egypt, world, middle",11,2011
+3,"political, tunisia, tunisian, civil, activities",3,2011
+4,"price, study, monetary policy, oil, monetary",3,2011
+5,"eu, enp, policy, european, foreign",1,2011
+6,"spring, arab spring, states, arab, autocracies",2,2011
+7,"womens, rights, gender, women, womens rights",2,2011
+8,"turkey, turkeys, effect, middle, demonstrative",2,2011
+9,"womens, sexual, egypt, gender, public",2,2011
+10,"gap, income, study, rural, urban",1,2011
+-1,"arab, countries, tunisia, political, egypt",17,2012
+0,"egyptian, egypt, political, 2011, revolution",20,2012
 1,"media, social, social media, political, arab",17,2012
-2,"arab, uprisings, political, egypt, libya",16,2012
-3,"egypt, food, impact, countries, oil",9,2012
-4,"women, womens, revolution, gender, egypt",3,2012
-5,"tunisia, au, tunisian, ben, national",5,2012
-6,"eu, cooperation, change, undp, crises",2,2012
-7,"spring, arab spring, arab, international, efforts",2,2012
-8,"alliance, tunisias, islamist, ennahda, elections",1,2012
-9,"turkey, relations, regional, iran, arab",3,2012
--1,"tunisia, arab, political, egypt, economic",21,2013
-0,"egypt, political, egyptian, brotherhood, muslim",21,2013
+2,"arab, uprisings, political, tunisia, regime",14,2012
+3,"tunisia, tunisian, article, au, revolution",7,2012
+4,"food, oil, politicallegal, impact, gas",6,2012
+5,"eu, domestic, cooperation, change, democracy promotion",1,2012
+6,"spring, arab spring, arab, international, community",3,2012
+7,"women, womens, tunisian, tunisia, conservative",1,2012
+8,"turkey, relations, regional, iran, arab",3,2012
+9,"women, womens, sexual, egypt, uprising",2,2012
+10,"employment, program, job, economic, tunisia",1,2012
+11,"egypt, ethical, maize, bt maize, bt",3,2012
+-1,"egypt, tunisia, political, arab, economic",20,2013
+0,"egypt, political, egyptian, brotherhood, muslim",22,2013
 1,"media, social, social media, arab, internet",30,2013
-2,"arab, uprisings, movements, political, egypt",16,2013
-3,"fdi, study, egypt, tourism, economic",8,2013
-4,"women, transitional justice, transitional, arab, womens",3,2013
-5,"ben, tunisian, ben ali, ali, regime",2,2013
-6,"eu, migration, arab, eus, asylum",4,2013
-7,"spring, arab spring, arab, tunisia, transition",5,2013
-8,"ennahda, islamists, political, assembly, tunisia",2,2013
-9,"turkish, foreign policy, policy, foreign, turkeys",3,2013
--1,"arab, spring, arab spring, egypt, tunisia",21,2014
-0,"egypt, political, egyptian, muslim, arab",15,2014
-1,"media, social, social media, new, political",20,2014
-2,"arab, model, uprisings, movements, radical social change",6,2014
-3,"gas, markets, egypt, currency, domestic",5,2014
-4,"womens, women, citizenship, gender, revolution",7,2014
-5,"algeria, oilreliant, civic associations, defection, liberalization",2,2014
-6,"eu, european, italy, migration, union",4,2014
-7,"spring, arab spring, arab, saudi, regional",4,2014
-8,"indonesia, islamist parties, parties, islamist, islamist parties indonesia",1,2014
-9,"turkey, regional, kurdish question, kurdish, turkish",4,2014
--1,"political, arab, tunisia, egypt, human",30,2015
-0,"egypt, political, 2011, egyptian, politics",22,2015
+2,"arab, uprisings, political, movements, regime",16,2013
+3,"political, tunisia, tunisian, ennahda, new",6,2013
+4,"fdi, corruption, orientation, study, mena",4,2013
+5,"eu, migration, arab, eus, asylum",4,2013
+6,"spring, arab spring, arab, tunisia, countries",6,2013
+7,"women, transitional justice, arab, womens, transitional",3,2013
+8,"turkish, foreign policy, policy, foreign, turkeys",3,2013
+10,"informal, entrepreneurship, entrepreneurial, businesses, marginal",1,2013
+-1,"arab, political, spring, tunisia, egypt",17,2014
+0,"egypt, political, egyptian, arab, muslim",16,2014
+1,"media, social, social media, new, political",21,2014
+2,"arab, nonviolent, model, uprisings, movements",7,2014
+3,"indonesia, islamist parties, parties, islamist, algeria",2,2014
+4,"gas, markets, market, currency, egypt",5,2014
+5,"eu, european, italy, policies, migration",4,2014
+6,"spring, arab, arab spring, security, security community",6,2014
+7,"women, womens, citizenship, tunisian, education",4,2014
+8,"turkey, regional, kurdish, kurdish question, turkish",4,2014
+9,"womens, revolution, bodies, hales, citizenship",3,2014
+-1,"arab, political, tunisia, egypt, spring",25,2015
+0,"political, egypt, 2011, egyptian, politics",23,2015
 1,"media, social, social media, arab, street",20,2015
-2,"arab, monarchies, uprisings, egypt, civil",14,2015
-3,"egypt, inflation, arab, public, banks",7,2015
-4,"womens, rights, women, sexual, bodies",4,2015
-5,"morocco, tunisia, algeria, political, uprisings",7,2015
-6,"eu, european, eus, arab, article",7,2015
-7,"spring, arab spring, arab, knowledge, israels",6,2015
-8,"parties, ennahda, democratic, political, tunisia",4,2015
-9,"turkish, foreign policy, turkish foreign, turkish foreign policy, foreign",3,2015
--1,"arab, tunisia, political, egypt, spring",23,2016
-0,"political, egypt, article, egyptian, movements",21,2016
-1,"media, social, news, social media, arab",15,2016
-2,"uprisings, arab, military, yemen, political",5,2016
-3,"tax, egypt, region, countries, study",5,2016
-4,"womens, gender, women, equality, gender equality",7,2016
-5,"voting, tunisia, tunisian, israel, paper",4,2016
-6,"detention, sanctions, italy, eus, eus sanctions",2,2016
-7,"wave, spring, wave democratization, arab spring, arab",3,2016
-8,"democratic, political, old regime elites, regime elites, leaderships",3,2016
--1,"arab, tunisia, spring, political, egypt",29,2017
-0,"egypt, political, egyptian, religious, egypts",19,2017
+2,"arab, uprisings, political, egypt, monarchies",18,2015
+3,"tunisia, political, morocco, arab, tunisian",12,2015
+4,"inflation, banks, fairness, arab, economic",4,2015
+5,"eu, european, eus, arab, european union",7,2015
+6,"spring, arab spring, arab, israels, negotiation",4,2015
+7,"rights, womens, women, bodies, body",3,2015
+8,"turkish, foreign policy, turkish foreign policy, turkish foreign, foreign",3,2015
+9,"sexual, initiatives, violence, prefigurative, sexual violence",1,2015
+10,"ptsd, students, adolescents, anxiety, level anxiety",2,2015
+11,"public, egypt, public service, service, capacity building",2,2015
+-1,"arab, tunisia, political, spring, arab spring",24,2016
+0,"political, egypt, article, egyptian, movements",22,2016
+1,"media, social, news, social media, arab",14,2016
+2,"arab, uprisings, military, yemen, political",5,2016
+3,"tunisia, tunisian, political, voting, democratic",8,2016
+4,"unemployment, gdp, economic, economy, effect",2,2016
+5,"detention, sanctions, italy, eus, expulsion",2,2016
+6,"spring, arab spring, arab, constitutions, spring constitutionmaking",2,2016
+7,"womens, women, arab, rights, arab spring",2,2016
+9,"gender, sexual, equality, gender equality, womens",3,2016
+10,"students, dental, malaysia, malaysian, egypt",1,2016
+11,"tax, health, 2013, dalys, region",3,2016
+-1,"arab, tunisia, political, egypt, spring",22,2017
+0,"egypt, political, egyptian, egypts, revolution",18,2017
 1,"media, social, political, social media, arab",14,2017
-2,"arab, uprisings, egypt, syria, political",4,2017
-3,"inflation, tax, family, market, banks",9,2017
-4,"women, womens, political, egypt, female",7,2017
-5,"security, collapse, relations, authoritarian, tunisia",2,2017
-6,"european, intergovernmental, innovations, foreign, policy",1,2017
-7,"arab spring, spring, arab, countries, region",1,2017
-8,"ennahda, religious, movement, party, ennahda movement",2,2017
-9,"cultural, nativist, middle east, middle, east",1,2017
--1,"arab, political, tunisia, spring, arab spring",30,2018
-0,"political, egypt, egyptian, 2011, article",23,2018
-1,"media, social, revolution, facebook, social media",6,2018
-2,"arab, syria, uprisings, national identity, politics",4,2018
-3,"egypt, companies, political, growth, economic",11,2018
-4,"womens, women, tunisian, men, revolution",8,2018
-5,"laws, political, security responses, violent extremism, tunisia",3,2018
-6,"eu, states, migration, sending, host states",3,2018
-8,"pilgrimage, parties, ennahda, political, tunisia",5,2018
-9,"turkey, arab, turkeys, levant, turkish",4,2018
--1,"arab, spring, tunisia, foreign, political",34,2019
-0,"egypt, egyptian, political, politics, military",19,2019
+2,"arab, uprisings, egypt, ec, political",5,2017
+3,"tunisian, tunisia, democracy, political, article",8,2017
+4,"inflation, market, banks, family, tunisia",9,2017
+5,"european, foreign, intergovernmental, innovations, policy",1,2017
+6,"arab spring, spring, arab, region, countries",1,2017
+7,"women, contraception, code, tunisia, womens",3,2017
+8,"cultural, nativist, middle east, middle, east",1,2017
+9,"womens, women, sexual, egypt, alienation",3,2017
+10,"mobility, spring, income, income mobility, arab spring",3,2017
+11,"health, health care, social justice, social justice health, justice health",1,2017
+-1,"arab, political, tunisia, spring, arab spring",26,2018
+0,"political, egypt, egyptian, article, 2011",25,2018
+1,"media, social, revolution, facebook, social media",7,2018
+2,"arab, syria, uprisings, nonviolent, yemen",5,2018
+3,"tunisia, political, tunisian, article, process",9,2018
+4,"companies, market, herding, growth, egypt",9,2018
+5,"eu, migration, states, sending, host states",3,2018
+6,"spring, arab, arab spring, regime, demonstrations",1,2018
+7,"womens, tunisian, women, autonomy, womens autonomy",3,2018
+8,"turkey, turkeys, arab, levant, turkish",4,2018
+9,"motherhood, stories, revolution stories, political motherhood, political",2,2018
+10,"inequality, mobility, education, welfare, higher education",2,2018
+11,"years post, post 2011 revolution, post 2011, years post 2011, seven years post",1,2018
+-1,"tunisia, arab, egypt, political, spring",24,2019
+0,"egypt, egyptian, political, military, politics",20,2019
 1,"media, social, social media, political, arab",17,2019
 2,"emotions, intervention, arab, military, decisions",4,2019
-3,"esg, countries, study, arab, spring",9,2019
-4,"public, sexual, women, sexual violence, female",4,2019
-5,"provisional, provisional administrations, administrations, tpa, ombudsman",3,2019
-6,"eu, eus, democracy promotion, promotion, democracy",3,2019
-7,"spring, arab spring, arab, countries, development mena region",1,2019
-8,"parties, islamist, party, islamist parties, tunisia",2,2019
+3,"civil society, civil, tunisian, society, tunisia",9,2019
+4,"esg, study, countries, arab, spring",8,2019
+5,"eu, foreign, policy, north, eus",4,2019
+6,"spring, arab spring, arab, region, countries",2,2019
+7,"family law, started, law, legislation, womenfriendly legislation",1,2019
+9,"public, sexual, sexual violence, female, egypt",3,2019
+10,"job, school, egypt, nile delta, delta",4,2019
